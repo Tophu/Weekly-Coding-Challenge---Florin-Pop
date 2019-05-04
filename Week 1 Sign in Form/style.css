@@ -1,4 +1,8 @@
+@font-face {
+  font-family: 'Nanum Gothic', sans-serif;
+  src: url("https://fonts.googleapis.com/css?family=Nanum+Gothic"); }
 body {
   margin: 0;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  font-family: 'Nanum Gothic', sans-serif; }
